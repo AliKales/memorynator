@@ -9,5 +9,5 @@ An app made with Flutter for taking notes for each person.
 ## Links
 
 <img src="assets/images/logo.png" width="100" height="100" style="border-radius: 30px;">
-- [Google Play Store](https://play.google.com/store/apps/details?id=com.caroby.memorynator)
 
+[Google Play Store](https://play.google.com/store/apps/details?id=com.caroby.memorynator)
