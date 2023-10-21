@@ -1,16 +1,13 @@
-# memorynator
+# Memorynator
 
-A new Flutter project.
+An app made with Flutter for taking notes for each person.
 
-## Getting Started
+## Screenshoots
 
-This project is a starting point for a Flutter application.
+<img src="assets/images/thumbnail.png" width="600" title="hover text">
 
-A few resources to get you started if this is your first Flutter project:
+## Links
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="assets/images/logo.png" width="100" height="100" style="border-radius: 30px;">
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.caroby.memorynator)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
