@@ -47,10 +47,10 @@ class MNote {
       personId: json['personId'] as String,
       title: json['title'] as String?,
       note: json['note'] as String?,
-      createdAt: (json['createdAt'] as int).millisecsToDate(true),
+      createdAt: DateTime.now(),
       images: (json['images'] as String?).decodeList<String>(),
       audio: json['audio'] as String?,
-      reminder: (json['reminder'] as int?)?.millisecsToDate(true),
+      reminder: DateTime.now(),
     );
   }
 }

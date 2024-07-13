@@ -32,7 +32,7 @@ class MPerson {
       name: json['name'] as String?,
       randomAvatarText: json['randomAvatarText'] as String?,
       imagePath: json['imagePath'] as String?,
-      createdAt: (json['createdAt'] as int).millisecsToDate(true),
+      createdAt: DateTime.now(),
     );
   }
 }

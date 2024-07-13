@@ -1,6 +1,5 @@
 import 'package:caroby/caroby.dart';
 import 'package:flutter/material.dart';
-import 'package:memorynator/core/extensions/ext_context.dart';
 
 part 'widgets/menu_widget.dart';
 

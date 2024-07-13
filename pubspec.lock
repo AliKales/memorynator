@@ -93,10 +93,10 @@ packages:
     dependency: "direct main"
     description:
       name: caroby
-      sha256: f670bc9a2fd429b000968e5483c1e08e77d9d42007c4d3938f790ea6248e1a27
+      sha256: "0b45b0afa4b3a0f293c0ad8aaed2f47a28fc7c77b4ac2db3dff9e139b3e654ab"
       url: "https://pub.dev"
     source: hosted
-    version: "0.1.0"
+    version: "0.1.5"
   characters:
     dependency: transitive
     description:
